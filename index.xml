@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omri Goldberg -  Portfolio</title>
+    <link>https://omrigo5.github.io/cv/</link>
+    <description>Recent content on Omri Goldberg -  Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    
+	<atom:link href="https://omrigo5.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acoustic-optical signal classification</title>
+      <link>https://omrigo5.github.io/cv/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://omrigo5.github.io/cv/portfolio/work1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/omrigo5/Signal-Classification&#34;&gt;https://github.com/omrigo5/Signal-Classification&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Acoustic-optical time-series signal classification using &lt;strong&gt;Pytorch&lt;/strong&gt; - &lt;strong&gt;LSTM&lt;/strong&gt; and &lt;strong&gt;1D CNN&lt;/strong&gt; with a self-collected dataset. Such a model could be useful for recording a meeting which takes place in an isolated building for example. One can record the vibrations of the windows (or any other nearby object) and reconstruct the audio signal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prediction of hotel-booking-cancellation</title>
+      <link>https://omrigo5.github.io/cv/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://omrigo5.github.io/cv/portfolio/work2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/omrigo5/Hotel-Booking-Cancellation&#34;&gt;https://github.com/omrigo5/Hotel-Booking-Cancellation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hotel reservation cancellation prediction using &lt;strong&gt;Scikit-Learn&lt;/strong&gt;. Tabular data was imported from Kaggle datasets and analyzed using the &lt;strong&gt;Pandas&lt;/strong&gt; library.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wheat-head detection</title>
+      <link>https://omrigo5.github.io/cv/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://omrigo5.github.io/cv/portfolio/work3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/omrigo5/Wheat-Detection&#34;&gt;https://github.com/omrigo5/Wheat-Detection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Object detection of wheat-heads using a &lt;strong&gt;Torchvision Faster-RCNN&lt;/strong&gt; pretrained model. The dataset was imported from a Kaggle competition and from an additional set of augmented images&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
